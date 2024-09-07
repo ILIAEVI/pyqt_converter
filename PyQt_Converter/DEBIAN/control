@@ -1,0 +1,6 @@
+Package: PyQtConverter
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Description: PyQt5 Currency Converter application
