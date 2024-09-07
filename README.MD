@@ -1,8 +1,8 @@
-# MyPyQt5App
+# PyQtConverter
 
 ## Description
 
-MyPyQt5App is a desktop application developed with PyQt5.
+PyQtConverter is a desktop application developed with PyQt5.
 
 
 
